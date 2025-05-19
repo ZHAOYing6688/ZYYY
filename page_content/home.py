@@ -16,7 +16,7 @@ def home_page():
     )
 
     # add a photo to the right column
-    image_path = os.path.join("static", "images", "/Users/zhaoying/Desktop/6037/04_personal_site_streamlit/static/images/WechatIMG586_副本.jpg")
+    image_path = os.path.join("static", "images", "image.png")
     if os.path.exists(image_path):
         image = Image.open(image_path)
         right_col.image(image, width=200)

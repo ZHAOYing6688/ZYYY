@@ -7,10 +7,9 @@ def contact_page():
     Feel free to reach out to me through any of the following channels:
     
     ### Direct Contact
-    - **Email**: [sarah.johnson@example.com](mailto:sarah.johnson@example.com)
-    - **Phone**: +1 (123) 456-7890
-    - **LinkedIn**: [linkedin.com/in/sarahjohnson](https://linkedin.com/in/sarahjohnson)
-    - **GitHub**: [github.com/sarahjohnson](https://github.com/sarahjohnson)
+    - **Email**: [13381390371.com]
+    - **Phone**: +86 13381390371
+
     """)
     
     st.markdown("### Send Me a Message")
