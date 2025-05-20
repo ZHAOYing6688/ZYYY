@@ -4,20 +4,19 @@ def education_page():
     st.markdown("## Education")
     
     st.markdown("""
-    ### Master of Marketing
-    **The Chinese University of Hongkong | *August 2024 - June 2025*
+    ### Master of Science in Data Science
+    **University of XYZ** | *September 2020 - May 2022*
     
     - GPA: 3.9/4.0
-    - Relevant Coursework: Machine Learning, Social Media Analysis, Customer Analysis, Big Data, Integrated Marketing Communication
+    - Thesis: "Applying Machine Learning Techniques to Predict Customer Behavior in E-commerce"
+    - Relevant Coursework: Advanced Machine Learning, Deep Learning, Natural Language Processing, Data Visualization, Statistical Methods for Data Science, Big Data Analytics
     
-    ### Bachelor of Marketing
-    **The Renmin University of China** | *September 2020 - June 2024*
+    ### Bachelor of Science in Computer Science
+    **ABC University** | *September 2016 - May 2020*
     
     - GPA: 3.7/4.0
     - Graduated with Honors
-    - Relevant Coursework: Marketing Principles, Consumer Behavior, Marketing Research, Digital Marketing, Big Data Stragety, Integrated
-Marketing Communication, Brand Management, Retail Management, Marketing Decision Model, Statistics, Econometrics,
-Advertising Creative Communication, Logistic Management, Statistics, Accounting, Financial Management
+    - Relevant Coursework: Algorithms and Data Structures, Database Systems, Computer Networks, Operating Systems, Software Engineering, Web Development
     """)
     
     st.markdown("---")
@@ -55,16 +54,15 @@ Advertising Creative Communication, Logistic Management, Statistics, Accounting,
     st.markdown("## Academic Projects")
     
     st.markdown("""
-    ### The Planning of An Integrated Marketing Program for Terun Carbonated Probiotic Milk Drink
-    -  Designed and implemented a consumer survey, analyzed the results of 183 questionnaires using SPSS, pinpointed that the
-brand’s issue was a lack of product recognition, and developed an integrated marketing campaign
-    - Developed a pop-up shop proposal for Shanghai, Chengdu, and Xinjiang based on product and city features, and designed IP
-to bring the brand closer to its potential customers through the creation of a cartoon character and limited edition packaging
+    ### Sentiment Analysis of Product Reviews
+    - Developed a deep learning model to analyze customer reviews and predict sentiment
+    - Achieved 92% accuracy using BERT and fine-tuning techniques
+    - Implemented the model as a web application using Flask
     
-    ### Streets in China - Field Research on the City of Chengdu
-    - Researched city data like commodities pricing, rental rates, and digital government, and conducted face-to-face interviews
-with grass-roots government staff to know the keys and challenges of street development
-    - Visited street markets, day-care centers, etc. to gain first-hand data and produced a research paper
+    ### Image Classification for Medical Diagnosis
+    - Created a convolutional neural network to classify medical images
+    - Worked with a dataset of X-ray images to detect pneumonia
+    - Achieved 88% accuracy and deployed the model on a cloud platform
     """)
     
     st.markdown("---") 
